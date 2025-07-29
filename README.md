@@ -23,8 +23,8 @@ Este repositório tem como objetivo armazenar os conteúdos, exercícios, projet
 **Ana Lúcia Cavalcante Sirino**  
 Curso Técnico em Informática Para Internet – ETEC
 Curso Técnico em Desenvolvimento de Sistemas – ETEC
-📧 ana.lucia.cavalcantes.irino@gmail.com  
+ana.lucia.cavalcantes.irino@gmail.com  
 
-## 📝 Observações
+## Observações
 
 Este repositório é apenas para fins educacionais. Sinta-se à vontade para explorar, estudar e utilizar como referência.
